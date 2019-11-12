@@ -8,7 +8,7 @@ class Employee:
 
 
 
-emp1 = Employee('Daniel', 'De la Portilla', 3000000)
-emp2 = Employee('David', 'Rios', 2000000)
+emp1 = Employee('Daniel', 'De la Portilla', 300)
+emp2 = Employee('David', 'Rios', 200)
 
-print(emp1)
+print(emp1.last)
