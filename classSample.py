@@ -11,4 +11,4 @@ class Employee:
 emp1 = Employee('Daniel', 'De la Portilla', 300)
 emp2 = Employee('David', 'Rios', 200)
 
-#print(emp1.last)
+print(emp1.last) #de la Portilla
